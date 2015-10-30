@@ -1,0 +1,1 @@
+This repo is to learn git commands and its process.
